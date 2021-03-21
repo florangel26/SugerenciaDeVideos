@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: repeat;
+    background-position: right;
+   
+}
+
+.container{
+    background:rgb(0, 59, 136);
+    margin-top: 70px;
+    height: 800px;
+    border-radius: 2%;
+    border-color: white;
+    color: white;
+}
+
+
+.centrado{
+    text-align: center;
+}
+.titulo{
+    font-family: 'Ranchers', cursiva;
+}
+
+h5{
+    
+    font-family: 'Ranchers', cursiva;
+    font-weight: 700;
+    font-size: 50px;
+    color: rgb(165, 164, 164);
+    
+}
